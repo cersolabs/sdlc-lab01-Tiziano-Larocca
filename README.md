@@ -48,13 +48,12 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 ### Actividad 2
 
 | Etapa                         | Descripción |
-| ----------------------------- | ----------- |
-| Análisis                      | Etapa inicial. Los analistas entrevistan a los clientes para identificar sus necesidades y los problemas que habrán en el sistema. Se definen los requerimientos del cliente, las                                             limitaciones / restricciones.             |
-| Diseño                        | Se elabora el diseño del software abordando los problemas identificados, se cumplen los requerimientos establecidos y se respetan las limitaciones. Esto genera una documentación
-                                  técnica que permite a los programadores construir el código de mejor manera.             |            
-| Codificación                  | Los programadores construyen el programa acorde al diseño establecido. Emplean un lenguaje de programación determinado.            |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+|--------------------------------|-------------|
+| Análisis                      | Etapa inicial. Los analistas entrevistan a los clientes para identificar sus necesidades y los problemas que habrá en el sistema. Se definen los requerimientos del cliente y las limitaciones o restricciones. |
+| Diseño                        | Se elabora el diseño del software abordando los problemas identificados. Se cumplen los requerimientos establecidos y se respetan las limitaciones. Esto genera documentación técnica que permite a los programadores construir el código de mejor manera. |
+| Codificación                  | Los programadores construyen el programa acorde al diseño establecido, utilizando un lenguaje de programación determinado. |
+| Prueba                        | Se testea el sistema para detectar errores y corregirlos. Además, se evalúa si el programa cumple con los requerimientos del cliente. |
+| Puesta en marcha / Despliegue | Se instala o lanza el software para el cliente en su computadora y se capacita a los usuarios para que utilicen el programa correctamente. |
 
 
 * Luego responda:

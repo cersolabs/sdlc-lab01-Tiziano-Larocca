@@ -93,8 +93,8 @@ R:
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     | Sistema que consta de 5 etapas las cuales se completan de forma lineal, modelo clásico                         | Conveniente usar en programas pequeños y simples, proyectos sencillos                       |
-| Incremental |                          |                        |
+| Cascada     | Sistema que consta de 5 etapas las cuales se completan de forma lineal, modelo clásico.                         | Conveniente usar en programas pequeños y simples, proyectos sencillos.                       |
+| Incremental | Se entregan versiones tempranas o "demos" al cliente, sistemas completos y operables. Conforme avancen las versiones se agregan más funcionalidades segun lo que el cliente requiera.                       | Conveniente usar cuando el proyecto es algo más grande y dispone de mayores riesgos. Es mejor entregar algo pequeño al principio para luego mejorarlo con el tiempo y llegar a su versión final.                        | 
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
 | RAD         |                          |                        |

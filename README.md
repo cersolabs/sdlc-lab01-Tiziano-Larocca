@@ -102,9 +102,11 @@ Complete la siguiente tabla.
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
     
-    R: El modelo espiral
+    R: El modelo espiral es el más adecuado.
     
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+
+    R: El modelo de prototipos es el que ayuda a comprender mejor los requerimientos del usuario.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.

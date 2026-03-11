@@ -16,23 +16,33 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R: Un desarrollo de software no puede realizarse comenzando solo a programar debido a que cada programa se hace con planificación y tiempo. Debe definirse el diseño del programa, 
+   R: Un proyecto de desarrollo de software no puede realizarse comenzando a programar. Un desarrollo de software requiere de planificación, debe cumplir con ciertas pautas / requerimientos en un orden, además,
+   antes del código es necesario definir el diseño de la arquitectura del sistema. Durante la implementación del código tambien es necesario ir testeando el programa para asegurarse de que cumple con lo requerido.
+   Es todo un proceso que se desarrolla en etapas (requerimientos, diseño del sistema, implementación / código, testing, despliegue y mantenimiento).
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R: Que un desarrollo este dirigido por un plan significa que el proyecto se está realizando con una planificación donde se definen con anticipación los requerimientos del sistema, las etapas del desarrollo, los            tiempos, los recursos que se usarán, etc. 
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R: Algunas ventajas de utilizar un plan de desarrollo son:
+     - Se pueden presupuestar costos
+     - Estimar los tiempos de desarrollo
+     - Etapas ya definidas
+     - Los requisitos planteados entre el cliente y el desarrollador podrán verse en el despliegue del software
+     - Definir recursos a usar
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R: Los modelos tradicionales hoy en día rara vez se usan, hoy se prefieren usar métodos ágiles de desarrollo. En los modelos tradicionales hay poca interacción con los clientes, los errores de una etapa se arrastran a
+   etapas posteriores y los requerimientos deben definirse al inicio con los menores cambios posibles. Un cambio en los requerimientos puede afectar significativamente a un software con un desarrollo alto.
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: Muchas organizaciones combinan metodologías porque cada una tiene sus ventajas distintas y se complementan entre sí. Por ejemplo, los modelos dirigidos por un plan serán más organizados definiendo costos, tiempos,
+   etapas, requisitos, etc. Y por otro lado la metodología ágil permite que el software se desarrolle de manera incremental, adaptandose rápidamente a cambios y mejorando el software.
+   En resumen, las organizaciones utilizan planes de desarrollo para definir el diseño general del proyecto y luego aplican prácticas ágiles para desarrollarlo de la manera más rapida y eficiente, adaptandose a cambios.
 
 
 ### Actividad 2

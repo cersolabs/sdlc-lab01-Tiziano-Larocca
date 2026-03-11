@@ -93,7 +93,7 @@ R:
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
+| Cascada     | Sistema que consta de 5 etapas las cuales se completan de forma lineal, modelo clásico                         | Conveniente usar en programas pequeños y simples, proyectos sencillos                       |
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |

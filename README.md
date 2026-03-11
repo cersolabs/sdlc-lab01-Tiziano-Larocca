@@ -121,19 +121,24 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: Recomendaría usar el modelo de desarrollo RAD.
 - Justifique su respuesta.
 
-  R:
+  R: Usaría RAD porque tengo claro lo que quiere el cliente y porque el programa es pequeño. Usar RAD me permite completar el programa de la manera más rapida y eficiente, además, me permitiria cumplir con el tiempo limitado que tendría.
 - ¿Qué etapas principales tendría el desarrollo?
 
-  R:
+  R: El desarrollo tendría estas etapas:
+  - Requerimientos
+  - Diseño
+  - Codificación
+  - Testeos / pruebas
+  - Despliegue
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
 1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+2. [X] El modelo incremental entrega el sistema en varias versiones.
+3. [X] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [X] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [X] El modelo en espiral incorpora el análisis de riesgos.

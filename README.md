@@ -52,7 +52,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 | Análisis                      | Etapa inicial. Los analistas entrevistan a los clientes para identificar sus necesidades y los problemas que habrán en el sistema. Se definen los requerimientos del cliente, las                                             limitaciones / restricciones.             |
 | Diseño                        | Se elabora el diseño del software abordando los problemas identificados, se cumplen los requerimientos establecidos y se respetan las limitaciones. Esto genera una documentación
                                   técnica que permite a los programadores construir el código de mejor manera.             |            
-| Codificación                  |             |
+| Codificación                  | Los programadores construyen el programa acorde al diseño establecido. Emplean un lenguaje de programación determinado.            |
 | Prueba                        |             |
 | Puesta en marcha / Despliegue |             |
 

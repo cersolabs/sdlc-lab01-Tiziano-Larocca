@@ -59,13 +59,13 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: Los requerimientos del sistema se obtienen en la primera etapa, la de análisis de requerimientos.
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R: El programa se construye en la etapa de codificación.
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R: El objetivo principal de las pruebas es detectar errores en el programa para corregirlo.
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
@@ -75,7 +75,12 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R:
+R: 
+- Ingeniería de requerimientos
+- Diseño
+- Codificación
+- Prueba
+- Despliegue
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?

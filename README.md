@@ -85,10 +85,10 @@ R:
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R: Si hay un error en la etapa de análisis de requerimientos, pueden surgir problemas como un rediseño del programa, retrasos, cambio sn la codificación, aumento de costos y tiempos y un programa que no cumple con las nececisades del cliente.
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: Cuando los requerimientos cambian, este modelo es problemático porque se deben volver a ver etapas anteriores, lo que provoca un resideño del software, un nuevo código, más tiempo y más costos.
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |

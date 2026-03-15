@@ -35,7 +35,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R: Los modelos tradicionales hoy en día rara vez se usan, hoy se prefieren usar métodos ágiles de desarrollo. En los modelos tradicionales hay poca interacción con los clientes, los errores de una etapa se arrastran a
+   R: Los modelos tradicionales hoy en día se usan, pero se prefieren usar métodos ágiles de desarrollo. En los modelos tradicionales hay poca interacción con los clientes, los errores de una etapa se arrastran a
    etapas posteriores y los requerimientos deben definirse al inicio con los menores cambios posibles. Un cambio en los requerimientos puede afectar significativamente a un software con un desarrollo alto.
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
@@ -93,7 +93,7 @@ R:
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     | Sistema que consta de 5 etapas las cuales se completan de forma lineal, modelo clásico.                         | Conveniente usar en programas pequeños y simples, proyectos sencillos.                       |
+| Cascada     | Sistema que consta de 5 etapas las cuales se completan de forma lineal, modelo clásico.                         | Conveniente usar en programas pequeños y simples, proyectos sencillos. También cuando se tienen claros los requisitos.                       |
 | Incremental | Se entregan versiones tempranas o "demos" al cliente, sistemas completos y operables. Conforme avancen las versiones se agregan más funcionalidades segun lo que el cliente requiera.                       | Conveniente usar cuando el proyecto es algo más grande y dispone de mayores riesgos. Es mejor entregar algo pequeño al principio para luego mejorarlo con el tiempo y llegar a su versión final.                        | 
 | Prototipos  | Versiones tempranas no funcionales del programa. Se utiliza para que el usuario visualice lo que se está planificando hacer. Una vez el prototipo es aprobado, este se desecha y se empieza con el programa real.                          | Conveniente usar en programas donde los requerimientos no están del todo claros, y donde se desee reducir los riesgos de un sistema que no cumpla con lo que un cliente espera.                      |
 | Espiral     | A las etapas habituales del proyecto se le agrega una nueva llamada "análisis de riesgo", donde a partir de estos análisis el programa se modifica. Las primeras etapas constan de prototipos para luego pasar a una versión operativa hasta completar el programa. Esta etapa se encuentra luego del diseño.                        | Conveniente usar en desarrollos muy riesgosos y algo grandes.                       |
